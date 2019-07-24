@@ -12,6 +12,7 @@ import com.jiehun.veigar.aop.annotation.LoginCheck;
 public class MainActivity extends AppCompatActivity {
 
     private final static String TAG = "<<<";
+    private String str = "";
 
 
     @Override
