@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private final static String TAG = "<<<";
     private String str = "";
     private String str2 = "1";
+    private String str3 = "2";
 
 
     @Override
